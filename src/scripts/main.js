@@ -25,6 +25,6 @@ if (totalSpan) {
 
 const averangeSpan = document.querySelector('.average-population');
 
-if (fromAverange) {
+if (averangeSpan) {
   averangeSpan.textContent = fromAverange;
 }
